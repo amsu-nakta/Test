@@ -1,0 +1,19 @@
+.header {
+  text-align: center;
+  color: green;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
+th {
+  text-align: center;
+}
+.yellow {
+  background-color: yellow;
+}
+.blue {
+  background-color: blue;
+  color: white;
+}
